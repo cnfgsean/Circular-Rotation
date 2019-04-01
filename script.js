@@ -8,7 +8,7 @@ var c = canvas.getContext("2d");
 
 var circles = [];
 
-var circleCount = 8;
+var circleCount = 12;
 
 const radianInc = 0.02;
 
